@@ -1,4 +1,4 @@
-# C Programming — Exercises 2
+# C Programming — Exercise
 
 They are a set of C programs written to practice core programming concepts, as part of my Computer Science coursework at Kirinyaga University.
 
